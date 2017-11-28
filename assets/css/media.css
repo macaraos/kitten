@@ -1,0 +1,21 @@
+@media (min-width: 667px) and (max-width: 1024px) {
+	.fondo{
+		background-image: url(../img/night.jpg);
+	}
+
+	.gatito{
+		background-image: url(../img/kitten-small.png);
+	}
+}
+
+@media (min-width: 376px) and (max-width: 667px) {
+	.fondo{
+		background-image: url(../img/dawn.png);
+	}
+
+	.gatito{
+		background-image: url(../img/kitten-large.png);
+	}
+}
+
+

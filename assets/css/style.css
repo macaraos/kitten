@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+.fondo {
+	background-image: url(../img/sunny-day.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 40%;
+	width: 100%;
+}
+
+.gatito{
+	background-image: url(../img/kitten-medium.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	z-index: 2;
+	height: 300px;
+}
+
+
+
